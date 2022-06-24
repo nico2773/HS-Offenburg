@@ -1,0 +1,9 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(514,5): warning MSB8028: Das Zwischenverzeichnis (x64\Debug\) enthält freigegebene Dateien aus einem anderen Projekt (KE06.vcxproj, KE06_AG01.vcxproj). Dies kann zu einem falschen Bereinigungs- und Neuerstellungsverhalten führen.
+  CAD_Drawing.cpp
+  Circle.cpp
+  main.cpp
+  Rectangle.cpp
+  Shape.cpp
+  Triangle.cpp
+  Code wird generiert...
+  KE06.vcxproj -> E:\FH_Offenburg\MKA4\Labor_cpp\Laborübungen-20220429\KE06\x64\Debug\AG1.exe

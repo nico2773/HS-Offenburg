@@ -1,0 +1,8 @@
+﻿  main.cpp
+  INumberSelection.cpp
+E:\FH_Offenburg\MKA4\Labor_cpp\Laborübungen-20220429\KE06\AG2\INumberSelection.cpp(17,12): warning C4244: "Argument": Konvertierung von "time_t" in "unsigned int", möglicher Datenverlust
+E:\FH_Offenburg\MKA4\Labor_cpp\Laborübungen-20220429\KE06\AG2\INumberSelection.cpp(15,9): warning C4101: "time_": Unreferenzierte lokale Variable
+  LottoEngine.cpp
+  Code wird generiert...
+  LINK : E:\FH_Offenburg\MKA4\Labor_cpp\Laborübungen-20220429\KE06\x64\Debug\AG2.exe wurde nicht gefunden oder beim letzten inkrementellen Linkvorgang nicht erstellt; vollständiger Link wird durchgeführt.
+  AG2.vcxproj -> E:\FH_Offenburg\MKA4\Labor_cpp\Laborübungen-20220429\KE06\x64\Debug\AG2.exe
